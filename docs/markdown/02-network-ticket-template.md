@@ -49,9 +49,7 @@ Describe the business requirement.
  
 
 | Port | Protocol | Purpose |
-
 |--------|--------|--------|
-
 | | | |
 
  
