@@ -1,0 +1,7 @@
+{
+    "ticket": "INC100003",
+    "priority": "Low",
+    "device": "SW-CORE-01",
+    "requester": "Infrastructure Team",
+    "description": "Document switch port configuration"
+}

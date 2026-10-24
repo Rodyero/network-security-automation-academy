@@ -1,0 +1,7 @@
+{
+    "ticket": "INC100002",
+    "priority": "Medium",
+    "device": "ASA-01",
+    "requester": "Server Team",
+    "description": "Review firewall logs for denied traffic"
+}

@@ -6,8 +6,8 @@ ticket_dir.mkdir(parents=True, exist_ok=True)
 (ticket_dir / "configs").mkdir(exist_ok=True)
 (ticket_dir / "screenshots").mkdir(exist_ok=True)
 template_path = Path ("templates/network-ticket-template.md")
-with open(template_path, "r") as file:
-	content= file.read()
+with open(json_file, "r") as file:
+    ticket_data = json.load(file)
 content = content.replace("{{TICKET_NUMBER}}", ticket_number)
 output_file =  ticket_dir / f"{ticket_number}.md"
 with open(output_file, "w") as file:

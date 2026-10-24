@@ -1,0 +1,7 @@
+{
+    "ticket": "INC100001",
+    "priority": "High",
+    "device": "PA-FW-01",
+    "requester": "Network Operations",
+    "description": "Allow HTTPS traffic to vendor application"
+}
