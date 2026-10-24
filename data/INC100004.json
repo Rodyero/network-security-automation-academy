@@ -1,0 +1,7 @@
+{
+    "ticket": "INC100004",
+    "priority": "Critical",
+    "device": "PANORAMA",
+    "requester": "Security Operations",
+    "description": "Investigate blocked threat signature"
+}
